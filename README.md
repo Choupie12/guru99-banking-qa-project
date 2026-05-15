@@ -11,6 +11,6 @@ Outils :
 
 Compétences démontrées :
 - Rédaction de cas de test
-- Validation fonctionnelle
+- Exécution de test fonctionnel
 - Identification et documentation des anomalies
 - Reporting QA
