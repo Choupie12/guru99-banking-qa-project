@@ -8,6 +8,11 @@ The test cases cover:
 - Customer creation & deleting
 - Deposit and withdrawal
 - Balance enquiry
+- New Customer
+- Edit Customer
+- Delete Customer
+- New Account & delete account
+- Mini statement & custumized statement
 
 File included:
 - TestCase_v1.xlsx
