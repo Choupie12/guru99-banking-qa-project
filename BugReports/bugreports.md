@@ -10,7 +10,7 @@ The bugs include:
 All bugs are documented in the Excel file:
 guru99_bugreports.xlsx
 
-## Environment
+### Environment
 - Chrome Browser
 - Windows 11
 - Guru99 Banking Application
