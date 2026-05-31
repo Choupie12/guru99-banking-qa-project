@@ -8,29 +8,29 @@ The purpose of this testing project is to validate the main functionalities of t
 
 The following modules were tested:
 
-Manager : 
--New Customer
--Edit Customer
--Delete Customer
--New Account
--Edit Account
--Delete Account
--Deposit
--Withdrawal
--Fund Transfer
--Change Password
--Balance Enquiry
--Mini Statement
--Customized Statement
--Login & Logout
+#### Manager : 
+- New Customer
+- Edit Customer
+- Delete Customer
+- New Account
+- Edit Account
+- Delete Account
+- Deposit
+- Withdrawal
+- Fund Transfer
+- Change Password
+- Balance Enquiry
+- Mini Statement
+- Customized Statement
+- Login & Logout
 
-Customer : 
--Balance enquiry
--Fund Transfer
--Mini Statement
--Customized Statement
--Change Password
--Login & Logout
+#### Customer : 
+- Balance enquiry
+- Fund Transfer
+- Mini Statement
+- Customized Statement
+- Change Password
+- Login & Logout
 
 ## Types of Testing Performed
 
