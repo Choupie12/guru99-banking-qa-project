@@ -38,6 +38,11 @@ The following modules were tested:
 - UI Testing
 - Regression Testing
 
+## Testing level
+- Unit Testing
+- Integration Testing
+- System Testing
+
 ## Testing Approach
 
 Manual testing techniques were used to execute test cases and validate the application functionalities.
