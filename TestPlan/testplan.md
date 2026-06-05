@@ -4,7 +4,8 @@
 The purpose of this testing project is to validate the main functionalities of the Guru99 Banking Application and ensure that the application behaves according to the expected requirements.
 
 ## Scope of Testing
-The Guru99 Bank will have 2 roles : Manager & Customer 
+The Guru99 Bank will have 2 roles : Manager & Customer
+
 The following modules were tested:
 
 #### Manager : 
