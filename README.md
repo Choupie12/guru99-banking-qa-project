@@ -47,8 +47,7 @@ Contains the overall testing results and conclusions.
 ## Tools Used
 
 - Microsoft Excel
-- Manual Testing Techniques
-- Defect Tracking Documentation
+- Google Docs
 - GitHub
 
 ## Key Activities Performed
