@@ -1,21 +1,15 @@
-# Bug Reports
+# Screenshots
 
-This folder contains defects identified during the testing of the Guru99 Banking Application.
+This folder contains screenshots collected during the testing of the Guru99 Banking Application.
 
-Testing was performed on four application versions:
+The screenshots include:
 
-- Version 1 (initial release)
-- Version 2 (corrected release)
-- Version 3 (new modules added)
-- Version 4 ( changed functional details)
+* Functional testing evidence
+* User workflow validation
+* Defect evidence supporting bug reports
 
-Defects were documented with:
-- Steps to reproduce
-- Expected results
-- Actual results
-- Priority
-- Severity
+Related documents can be found in:
 
-Files:
-- BugReport_v1.xlsx
-- BugReport_v2.xlsx
+* TestCases/
+* BugReports/
+
