@@ -48,9 +48,7 @@ The defects identified during testing included:
 
 * Functional defects
 * Validation defects
-* Data processing defects
 * User interface defects
-* Workflow inconsistencies
 
 ---
 
