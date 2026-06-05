@@ -4,16 +4,16 @@ This folder contains the test cases created and executed during the testing of t
 
 Testing activities were performed across different testing levels:
 
-Unit Testing 
-Integration 
-System Testing
+- Unit Testing 
+- Integration 
+- System Testing
 
-Each file contains detailed test scenarios including:
+Each file contains detailed test scenarios including :
 
-Test steps
-Expected results
-Actual results
-Execution status (Pass/Fail)
+- Test steps
+- Expected results
+- Actual results
+- Execution status (Pass/Fail)
 
 The objective was to validate application functionality and support defect identification throughout the testing lifecycle.
 
