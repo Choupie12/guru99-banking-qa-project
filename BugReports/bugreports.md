@@ -8,7 +8,10 @@ The bugs include:
 - Validation issues
 
 All bugs are documented in the Excel file:
-guru99_bugreports.xlsx
+- BugReport_v1.xlsx
+- BugReport_v2.xlsx
+- BugReport_v3.xlsx
+- BugReport_v4.xlsx
 
 ### Environment
 - Chrome Browser
