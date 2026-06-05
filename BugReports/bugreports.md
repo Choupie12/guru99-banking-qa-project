@@ -2,6 +2,12 @@
 
 This folder contains bug reports identified during the testing of Guru99 Banking Application.
 
+Testing was performed on four application versions:
+- Version 1 (initial release)
+- Version 2 (corrected release)
+- Version 3 (new modules added)
+- Version 4 ( changed functional details)
+
 The bugs include:
 - Functional issues
 - UI issues
