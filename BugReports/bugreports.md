@@ -7,6 +7,13 @@ The bugs include:
 - UI issues
 - Validation issues
 
+Defects were documented with:
+- Steps to reproduce
+- Expected results
+- Actual results
+- Priority
+- Severity
+
 All bugs are documented in the Excel file:
 - BugReport_v1.xlsx
 - BugReport_v2.xlsx
