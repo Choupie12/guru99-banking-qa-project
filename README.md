@@ -44,7 +44,7 @@ Contains screenshots collected during test execution and defect reporting.
 ### TestSummary
 Contains the overall testing results and conclusions.
 
-### Project Documentation
+### ProjectDocumentation
 
 - Design Mockups
 - Requirement specification
