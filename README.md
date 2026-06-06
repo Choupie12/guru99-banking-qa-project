@@ -44,6 +44,11 @@ Contains screenshots collected during test execution and defect reporting.
 ### TestSummary
 Contains the overall testing results and conclusions.
 
+### Project Documentation
+
+- Design Mockups
+- Requirement specification
+
 ## Tools Used
 
 - Microsoft Excel
